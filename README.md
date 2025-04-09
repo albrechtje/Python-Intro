@@ -1,6 +1,6 @@
 # Python-Intro
 
-You find in this repo a notebook with a brief introduction to Python.
+In this repo you find a notebook with a brief introduction to Python.
 
 If you want to run it with no setup at all on Google Colab, just click the link below:
 
